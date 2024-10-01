@@ -85,6 +85,6 @@ A structured 50-day Rust learning and project challenge starting Hacktober 1st. 
 - Study Rust macros and how to create your own.
 - **Project:** Create a custom derive macro to automatically generate code for common tasks in one of your previous projects.
 
----
+### Don't forget to drop a star to the repository
 
 Throughout the challenge, contribute to Hacktoberfest by submitting pull requests to open-source Rust projects or libraries.
