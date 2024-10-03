@@ -28,7 +28,7 @@ some basic data types in Rust:
 
 ### 6. **Tuples** (Mixed Data Group)
 - Tuples let you group different types of values together, like a mini package that can hold multiple items.
-- Example: `let person: (String, i32) = (String::from("Mart"), 25);`
+- Example: `let person: (String, i32) = (String::from("Mart"), 50);`
   This holds both a name and an age.
 
 ### 7. **Arrays** (Fixed-size List)
