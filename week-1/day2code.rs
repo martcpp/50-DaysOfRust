@@ -10,7 +10,7 @@ fn main() {
     let height = 1.75;
 
     // formatted string with placeholders
-    println!("Hello, my name is {}. I'm {} years old. I'm a student: {}. My height is {} meters.", name, age, is_student, height);
+    println!("Hello, my name is {0}. I'm {1} years old. I'm a student: {2}. My height is {3} meters.", name, age, is_student, height);
 
 
     // mutable variables
@@ -30,7 +30,7 @@ fn main() {
         println!("Inside the scope: My name is {}", name);
     }
 
-    
+
 }
 
 
